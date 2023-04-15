@@ -7,3 +7,7 @@
 ***temp_data_compiler.R*** - Program that splits the output data structures in ***temp_refactored.R*** and filters them to show the summer months from 2018 to 2022 (date of ***National Land Cover Dataset***). 
 
 ***skiatook/*** & ***bixby/*** & ***tulsa_international/*** & ***tulsa_richard_l_jones/*** - holds \*.png data visuals of the compiled by ***temp_data_compiler.R***
+
+***tmax.png*** - Relative extrema representation of max-temp data compiled by ***temp.R***
+
+***temp_legend.png*** - Clipped legend for mesonet site split data visuals compiled by ***temp_data_compiled.R***
