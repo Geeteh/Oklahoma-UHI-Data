@@ -1,4 +1,4 @@
-### Temperature Data
+# Temperature Data
 
 ***temp.R*** - Program that cleans and manipulates the mesonet sites' data to represent the relative extrema of daily maximum temperatures since 1944
 
